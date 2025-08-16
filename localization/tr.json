@@ -1,0 +1,101 @@
+{
+  "noNetwork": "İnternet bağlantısı yok",
+  "common": {
+    "cancel": "İptal"
+  },
+
+  "onboarding": {
+    "skip": "Geç",
+    "continue": "Devam Et",
+    "languageSelection": {
+      "title": "Dilini Seç",
+      "subtitle": "Tercih ettiğin dili seç",
+      "description": "Deneyimin için kullanmak istediğin dili seç. Bunu daha sonra ayarlardan değiştirebilirsin.",
+      "features": {
+        "english": "İngilizce",
+        "turkish": "Türkçe",
+        "global": "Küresel"
+      }
+    }
+  },
+
+  "settings": {
+    "notifications": {
+      "title": "Push Bildirimleri",
+      "subtitle": "Yeni eşleşmeler ve mesajlar için bildirim al"
+    },
+    "appearance": {
+      "language": "Dil",
+      "theme": "Tema",
+      "lightMode": "Açık Mod",
+      "systemMode": "Sistem",
+      "darkMode": "Karanlık Mod",
+      "darkModeSubtitle": "Karanlık temaya geç"
+    },
+    "privacy": {
+      "privacyPolicy": "Gizlilik Politikası",
+      "privacyPolicySubtitle": "Verilerinizi nasıl koruyoruz"
+    },
+    "support": {
+      "help": "Yardım Merkezi",
+      "helpSubtitle": "Yaygın soruların cevaplarını bul",
+      "about": "Uygulama Hakkında",
+      "aboutSubtitle": "Sürüm ve uygulama bilgileri"
+    }
+  },
+
+  "languageSettings": {
+    "subtitle": "Tercih ettiğin dili seç"
+  },
+
+  "profile": {
+    "title": "Profilim",
+    "logoutDesc": "Hesabınızdan güvenli çıkış",
+    "deleteAccount": "Hesabı Sil",
+    "deleteAccountDesc": "Hesabınızı kalıcı olarak silin",
+    "deleteConfirm": "Hesabı Sil",
+    "deleteConfirmDesc": "Bu işlem geri alınamaz. Hesabınızı silmek istiyor musunuz?",
+    "logout": {
+      "title": "Çıkış Yap",
+      "message": "Hesabınızdan çıkış yapmak istediğinizden emin misiniz?",
+      "cancel": "İptal",
+      "confirm": "Çıkış Yap",
+      "error": "Çıkış yaparken bir hata oluştu."
+    },
+    "user": {
+      "defaultName": "Kullanıcı"
+    },
+    "stats": {
+      "posts": "Gönderi",
+      "followers": "Takipçi",
+      "following": "Takip"
+    },
+    "menuItems": {
+      "editProfile": {
+        "title": "Profili Düzenle",
+        "subtitle": "Bilgilerini güncelle ve fotoğraf ekle"
+      }
+    }
+  },
+
+  "login": {
+    "welcomeBack": "Tekrar Hoşgeldiniz",
+    "signInToContinue": "Devam etmek için giriş yapın",
+    "enterYourEmail": "E-posta adresinizi girin",
+    "enterYourPassword": "Şifrenizi girin",
+    "signIn": "Giriş Yap",
+    "createAccount": "Hesap Oluştur",
+    "invalidEmailOrPassword": "Geçersiz e-posta veya şifre. Lütfen tekrar deneyin.",
+    "somethingWentWrong": "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+  },
+
+  "register": {
+    "createAccount": "Hesap Oluştur",
+    "joinUs": "Bize katılın ve yolculuğunuza başlayın",
+    "enterYourFirstName": "Adınızı girin",
+    "enterYourLastName": "Soyadınızı girin",
+    "enterYourEmail": "E-posta adresinizi girin",
+    "enterYourPassword": "Şifrenizi girin",
+    "alreadyHaveAccount": "Zaten bir hesabınız var mı? Giriş Yap"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "noNetwork": "No internet connection",
+  "common": {
+    "cancel": "Cancel"
+  },
+
+  "onboarding": {
+    "skip": "Skip",
+    "continue": "Continue",
+    "languageSelection": {
+      "title": "Choose Your Language",
+      "subtitle": "Select your preferred language",
+      "description": "Choose the language you'd like to use for your experience. You can change this later in settings.",
+      "features": {
+        "english": "English",
+        "turkish": "Turkish",
+        "global": "Global"
+      }
+    }
+  },
+
+  "settings": {
+    "notifications": {
+      "title": "Push Notifications",
+      "subtitle": "Receive notifications for new matches and messages"
+    },
+    "appearance": {
+      "language": "Language",
+      "theme": "Theme",
+      "lightMode": "Light Mode",
+      "systemMode": "System",
+      "darkMode": "Dark Mode",
+      "darkModeSubtitle": "Switch to dark theme"
+    },
+    "privacy": {
+      "privacyPolicy": "Privacy Policy",
+      "privacyPolicySubtitle": "How we protect your data"
+    },
+    "support": {
+      "help": "Help Center",
+      "helpSubtitle": "Find answers to common questions",
+      "about": "About App",
+      "aboutSubtitle": "Version and app information"
+    }
+  },
+
+  "languageSettings": {
+    "subtitle": "Choose your preferred language"
+  },
+
+  "profile": {
+    "title": "My Profile",
+    "logoutDesc": "Safely logout from your account",
+    "deleteAccount": "Delete Account",
+    "deleteAccountDesc": "Permanently delete your account",
+    "deleteConfirm": "Delete Account",
+    "deleteConfirmDesc": "This action cannot be undone. Do you want to delete your account?",
+    "logout": {
+      "title": "Logout",
+      "message": "Are you sure you want to logout from your account?",
+      "cancel": "Cancel",
+      "confirm": "Logout",
+      "error": "An error occurred while logging out."
+    },
+    "user": {
+      "defaultName": "User"
+    },
+    "stats": {
+      "posts": "Posts",
+      "followers": "Followers",
+      "following": "Following"
+    },
+    "menuItems": {
+      "editProfile": {
+        "title": "Edit Profile",
+        "subtitle": "Update your information and add photos"
+      }
+    }
+  },
+
+  "login": {
+    "welcomeBack": "Welcome Back",
+    "signInToContinue": "Sign in to continue your journey",
+    "enterYourEmail": "Enter your email",
+    "enterYourPassword": "Enter your password",
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "invalidEmailOrPassword": "Invalid email or password. Please try again.",
+    "somethingWentWrong": "Something went wrong. Please try again."
+  },
+
+  "register": {
+    "createAccount": "Create Account",
+    "joinUs": "Join us and start your journey",
+    "enterYourFirstName": "Enter your first name",
+    "enterYourLastName": "Enter your last name",
+    "enterYourEmail": "Enter your email",
+    "enterYourPassword": "Enter your password",
+    "alreadyHaveAccount": "Already have an account? Sign In"
+  }
+}

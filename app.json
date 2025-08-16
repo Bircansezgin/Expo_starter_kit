@@ -1,0 +1,52 @@
+{
+  "expo": {
+    "name": "React Native Template Starter",
+    "slug": "react-native-template-starter",
+    "version": "1.0.0",
+    "description": "A comprehensive React Native template with authentication, navigation, and modern UI components",
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "experiments": {
+      "tsconfigPaths": true
+    },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Allow microphone access to send voice messages."
+        }
+      ]
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/1024.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.template.starter"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/splash.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.template.starter"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "template-starter-project-id"
+      }
+    }
+  }
+}
